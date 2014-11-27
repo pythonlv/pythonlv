@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Riga'
 
 DEFAULT_LANG = 'en'
 
@@ -26,8 +26,13 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('Meetup', 'http://bit.ly/pythonlv-meetup'),
+    ('@pythonlv', 'http://bit.ly/pythonlv-tw'),
+    ('Facebook', 'http://bit.ly/pythonlv-fb'),
+    ('Google Plus', 'http://bit.ly/pythonlv-plus'),
+    ('GitHub', 'http://bit.ly/pythonlv-gh'),
+)
 
 DEFAULT_PAGINATION = 10
 

@@ -1,0 +1,37 @@
+November 5, 2014 meetup recap
+=============================
+:date: 2014-11-27
+:tags: Python, MicroPython
+:authors: Janis Abele
+
+
+Prezentācija http://www.slideshare.net/CRImier/micropythonelectronics-prezentcija
+
+
+Ievads lodēšanas mākslā (http://bit.ly/1FdyLpg).
+
+Lemona, argus
+
+Python + Firmata paņemiens:
+http://www.slideshare.net/annagerber/intro-to-electronics-in-python
+
+Raspberry Pi projekti:
+http://pingbin.com/2012/12/30-cool-ideas-raspberry-pi-project/
+
+MicroPython projekta KickStarter:
+https://www.kickstarter.com/projects/214379695/micro-python
+
+Atšķirības starp CPython un MicroPython vidi:
+https://github.com/micropython/micropython/wiki/Differences
+
+Izcīla dokumentācija par MicroPython vidi un plati:
+http://docs.micropython.org/en/latest/index.html
+
+OpenMV projekts
+http://hackaday.io/project/1313-openmv
+http://youtu.be/To-KUylzmOM - visvienkāršakais MicroPython projekts =)
+http://youtu.be/T0ZxvSrkm58 - akselerometra datu apstrādes piemērs
+http://youtu.be/9zFYHiPbdQI - kvadrokoptera motora kontrole, izmantojot MicroPython plati
+http://youtu.be/AuMY1aiAN4k - MicroPython radiovadama mašinīte
+http://youtu.be/s8KxrKeUsDU - vēl viena mašinīte
+http://youtu.be/Fk3Op-CsmFA - OpenMV projekta demonstrācija
