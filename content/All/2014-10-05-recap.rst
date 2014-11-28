@@ -33,7 +33,7 @@ Examples
 - Using Accelerometer http://youtu.be/T0ZxvSrkm58
 - Controlling Quadcopter motor http://youtu.be/9zFYHiPbdQI
 - Controlig toy car http://youtu.be/AuMY1aiAN4k and
-  http://youtu.be/s8KxrKeUsDU - vēl viena mašinīte
+  http://youtu.be/s8KxrKeUsDU
 - OpenMV demonstration http://youtu.be/Fk3Op-CsmFA
 
 .. _Arsenijs Pičugins: http://bit.ly/1Ds6uKJ
