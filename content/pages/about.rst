@@ -1,6 +1,5 @@
 About
 =====
-:date: 2014-11-27
 :slug: About
 
 Python User Group Latvia was created with goal to meet other local
