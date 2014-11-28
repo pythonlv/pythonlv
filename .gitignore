@@ -2,3 +2,5 @@ venv/
 __pycache__/
 cache/
 *.pid
+.env
+pelican-bootstrap3/
