@@ -28,7 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (
     ('Meetup', 'http://bit.ly/pythonlv-meetup'),
-    ('@pythonlv', 'http://bit.ly/pythonlv-tw'),
+    ('Twitter', 'http://bit.ly/pythonlv-tw'),
     ('Facebook', 'http://bit.ly/pythonlv-fb'),
     ('Google Plus', 'http://bit.ly/pythonlv-plus'),
     ('GitHub', 'http://bit.ly/pythonlv-gh'),
