@@ -1,6 +1,6 @@
 About
 =====
-:slug: About
+:slug: about
 
 Python User Group Latvia was created with goal to meet other local
 Python developers, learners, employers, and enthusiasts of all kinds.
