@@ -2,7 +2,7 @@ Venue
 =====
 :slug: venue
 
-Python Latvia meetup events are taking place at `The Mill`_.
+Python Latvia meetup events take place at `The Mill`_.
 
 Address
     Brivibas 33-8, Riga, entrance from Brivibas street.

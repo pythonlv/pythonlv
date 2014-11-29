@@ -2,9 +2,9 @@ Call 4 Speakers
 ===============
 :slug: call-for-speekers
 
-Anyone with any level of Python knowledge is a candidate for a great talk. As there is attendees of all kinds, we need speakers of all kinds.
+Anyone with any level of Python knowledge is a candidate for a great talk. As we have attendees of all kinds, we need speakers of all kinds.
 
-So if you could give a talk (or a few), then please share those subjects and short description with us, this will help us to organize future Meetup events.
+So if you could give a talk (or a few), please share those subjects (+ short descriptions) with us, this will help us to organize future Meetup events.
 
 Feel free to give your talk in your preferred language: English, Latvian
 
