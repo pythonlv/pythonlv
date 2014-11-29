@@ -14,7 +14,7 @@ power outage in other hardware. Presentation_ is available online.
 
 To see his other endeavours, follow his blog_.
 
-Laverage Python power
+Leverage Python power
 ---------------------
 - `Python + Firmata aproach`_
 - MicroPython and CPython Differences_
