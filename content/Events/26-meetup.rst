@@ -1,4 +1,4 @@
-26# Python Latvia Meetup
+#26 Python Latvia Meetup
 ========================
 :URL:
 :save_as: index.html
