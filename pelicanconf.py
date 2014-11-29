@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = 'Python Latvia'
 SITENAME = 'Python Latvia'
@@ -38,3 +39,8 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 THEME = "themes/built-texts/"
 TWITTER_USERNAME = 'pythonlatvia'
+
+PLUGINS = [
+    'google_embed',
+]
+GMAPS_KEY = 'AIzaSyB9UsQKmrYGAao49WFfIABMf7j8twOvAcc'
