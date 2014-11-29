@@ -45,4 +45,3 @@ PLUGINS = [
     'google_embed',
 ]
 GMAPS_KEY = 'AIzaSyB9UsQKmrYGAao49WFfIABMf7j8twOvAcc'
-INDEX_SAVE_AS = 'blog_index.html'

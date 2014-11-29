@@ -3,6 +3,7 @@ November 5, 2014 meetup recap
 :date: 2014-11-27
 :tags: Python, MicroPython, Firmata, OpenMV, Raspberry PI
 :authors: Janis Abele
+:slug: 2014-10-05-recap
 
 .. image:: https://pbs.twimg.com/media/B1sduGkCYAA-_ak.jpg:large
   :height: 300px

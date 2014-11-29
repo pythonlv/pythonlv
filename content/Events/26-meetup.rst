@@ -1,8 +1,7 @@
 #26 Python Latvia Meetup
 ========================
-:URL:
-:save_as: index.html
 :date: 2014.11.29 16:23:55
+:slug: 26-meetup
 
 Dependency injection
 --------------------
