@@ -22,7 +22,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = ()
+LINKS = (
+)
 
 # Social widget
 SOCIAL = (
@@ -44,3 +45,4 @@ PLUGINS = [
     'google_embed',
 ]
 GMAPS_KEY = 'AIzaSyB9UsQKmrYGAao49WFfIABMf7j8twOvAcc'
+INDEX_SAVE_AS = 'blog_index.html'
