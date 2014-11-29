@@ -25,4 +25,4 @@ Where
     js.id=id;js.async=true;js.src="https://secure.meetup.com/s/script/577045002335750872971/api/mu.btns.js?id=6dkh0fh6atbg7u509bqilvd3pr";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
 .. _The Mill: http://bit.ly/millriga
-.. _Propose a talk: http://bit.ly/pythonlv-c3s
+.. _Propose a talk: http://bit.ly/pythonlv-c4s
