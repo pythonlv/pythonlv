@@ -41,7 +41,7 @@ Agenda
 - 19:45 - Q&A, show and tell
 - 20:20 - **Chill, table tennis**
 
-**Take your friends with you and make new one. Tweet @pythonlatvia #pythonlv and enjoy evening!**
+**Take your friends with you, and make new ones. Tweet @pythonlatvia #pythonlv and enjoy the evening!**
 
 .. raw:: html
 
