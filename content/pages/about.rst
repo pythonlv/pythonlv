@@ -2,10 +2,11 @@ About
 =====
 :slug: about
 
-Python User Group Latvia was created with the goal of bringing together local
-Python developers, learners, employers, and enthusiasts of all kinds.
-All skill levels are welcome, if you are interested in Python, we are
-interested in you!
+Python Lativa was created with the goal of bringing together developers,
+learners, employers and technology enthusiasts of all sorts. Everyone is
+welcome, no matter your skill level or choice of programming language. If you
+are interested in programming we are interested in you. We believe in a diverse
+community.
 
 In addition to meeting face-to-face at monthly Meetups_, we're on
 `Google Plus`_, Facebook_, GitHub_ and Twitter as `@pythonlatvia`_.
