@@ -1,10 +1,8 @@
-#26 Python Latvia Meetup
-========================
+#26 Meetup - Dependency injection
+=================================
 :date: 2014.11.29 16:23:55
 :slug: 26-meetup
 
-Dependency injection
---------------------
 When
     Wednesday, December 3, 2014 7:00 PM
 
