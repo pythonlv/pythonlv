@@ -16,7 +16,7 @@ Requirements
     Python and OOP basics.
 
 Sponsors
-    None. If you want slice of **pizza**, then **RSVP** and you can pay for it latter.
+    None. If you want a slice of **pizza**, then **RSVP** and you can pay for it latter.
 
 .. raw:: html
 
