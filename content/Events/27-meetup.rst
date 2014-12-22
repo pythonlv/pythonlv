@@ -1,6 +1,6 @@
 #27 Meetup - Nltk
 =================
-:date: |today|
+:date: 2014-12-23 01:33
 :slug: 27-meetup
 
 When
@@ -53,4 +53,4 @@ Agenda
 
 .. _The Mill: http://bit.ly/millriga
 .. _Propose a talk: http://bit.ly/pythonlv-c4s
-
+.. _@pumours: http://bit.ly/1JKU0C4
