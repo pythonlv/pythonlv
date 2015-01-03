@@ -16,7 +16,7 @@ Requirements
      Knowledge of basic Python syntax and functions.
 
 Sponsors
-    Pizza will be sponsored by Eglobal.
+    Pizza will be sponsored by EGlobal.
 
 .. raw:: html
 
