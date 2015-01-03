@@ -1,0 +1,35 @@
+December 3, 2014 meetup recap
+=============================
+:date: 2014-12-04
+:tags: Python, Dependency Injection
+:authors: Janis Abele
+:slug: 2014-12-03-recap
+:status: draft
+
+`Jānis Ābele`_ presented about Dependency Injection in Python.
+
+Presentations:
+
+Community news
+  http://bit.ly/1FQHhJi
+Dependency Injection
+  http://bit.ly/1yjUlYL
+
+Framework Landscape
+-------------------
+- PyPI
+  - License
+  - Released
+  - Status
+  - Python 3?
+- Participants
+- Documentation
+- Repo Activity
+  - Repo Hosting
+  - Repo URL
+  - Commits
+  - Forks
+- Sites using this package
+- Version
+
+.. _Jānis Ābele: http://theabele.com
