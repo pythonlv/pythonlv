@@ -2,14 +2,14 @@ Venue
 =====
 :slug: venue
 
-Python Latvia meetup events take place at `The Mill`_.
+Python Latvia meetup events take place at `TechHub Riga`_
 
 Address
-    Brivibas 33-8, Riga, entrance from Brivibas street.
+    Kalku iela 12/14, Riga, entrance from Kaleju street.
 
 http://bit.ly/millriga-gm
 
-.. gmaps:: 33 Brīvības iela, Rīga, Rīgas pilsēta
-    :mode: search
+.. gmaps:: Techhub Riga
+    :mode: place
 
-.. _The Mill: http://bit.ly/millriga
+.. _TechHub Riga: http://bit.ly/techhub-riga
