@@ -37,7 +37,7 @@ Agenda
 - 19:00 - Mingling, snacks
 - 19:15 - **Alberts Pumpurs** about Nltk
 - 19:45 - Q&A, show and tell
-- 20:20 - **Chill, table tennis**
+- 20:20 - **Chill**
 
 **Take your friends with you, and make new ones. Tweet @pythonlatvia #pythonlv and enjoy the evening!**
 
