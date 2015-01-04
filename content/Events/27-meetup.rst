@@ -7,7 +7,7 @@ When
     Wednesday, February 4, 2015 7:00 PM
 
 Where
-    `TechHub Riga`_, Kalku iela 12/14, Riga, entrance from Kaleju street.
+    `TechHub Riga`_, Kalku street 12, Riga, entrance from Kaleju street.
 
 Language
     English, Latvian

@@ -5,7 +5,7 @@ Venue
 Python Latvia meetup events take place at `TechHub Riga`_
 
 Address
-    Kalku iela 12/14, Riga, entrance from Kaleju street.
+    Kalku street 12, Riga, entrance from Kaleju street.
 
 http://bit.ly/thr-gm
 
