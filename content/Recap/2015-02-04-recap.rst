@@ -1,0 +1,46 @@
+February 4, 2015, NLTK meetup recap
+===================================
+:date: 2015-08-15
+:tags: Python, NLTK, Sentiment analysis, Flask, SQLAlchemy
+:authors: Janis Abele
+:slug: 2015-02-04-recap
+
+Wednesday February 4 another one of our monthly meetups took place at
+`TechHub Riga`_. The 27th to be precise. Pizza and cookies were on EGlobal,
+our first sponsor. We have decided to have our `monthly workshop`_ at `The
+Mill`_.
+
+NLTK
+----
+Alberts Pumpurs (@pumours_) advice on using `NLTK`_ in real project, is to
+convince business of provided value aka money. You have to remember it's just a
+toolkit with a bunch of tools you have to compose to get desired result. For
+analysis of English text you get `corpora` for free. For Latvian analysis you are
+you have to do it for on your own, for example, compilation his
+`Latvian positive and negative sentiment wods`_.
+
+Take a look at his Presentation_. If you squint you can see some code examples
+there.
+
+Overfitting is a problem.
+Choosing dataset for your model image
+Test set size
+
+
+Evening closed out with discussion on SQLAlchemy sessions in Flask applications.
+If not careful they they can lead to subtle bugs like sharing information
+between users. So RTFM and consult experts.
+
+Our `next meetup`_ will be held on March 4th in wonderful `TechHub Riga`_
+premises.
+
+
+.. _TechHub Riga: http://bit.ly/techhub-riga
+.. _monthly workshop: http://bit.ly/pythonlv-ws-1
+.. _The Mill: http://bit.ly/millriga
+.. _@pumours: http://bit.ly/1JKU0C4
+.. _NLTK: http://bit.ly/1Ag8AQ8
+.. _Presentation: http://slidesha.re/1Ag8iIR
+.. _Latvian positive and negative sentiment wods: http://bit.ly/1Cm86D2
+.. _corpora: http://bit.ly/1Cm8gKN
+.. _next meetup: http://bit.ly/pythonlv28
