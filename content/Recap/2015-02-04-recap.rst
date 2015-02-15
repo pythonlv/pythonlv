@@ -13,7 +13,7 @@ To spark new ideas, and get together more often, we have decided to have a
 
 NLTK
 ----
-Alberts Pumpurs (@pumours_) gave a great overview of the `NLTK`_ library in Python.
+Alberts Pumpurs (`@pumours`_) gave a great overview of the `NLTK`_ library in Python.
 He has shared his `presentation here`_ . If you squint, you can read some code
 examples there.
 
@@ -21,8 +21,8 @@ examples there.
 language data. It provides easy-to-use interfaces to over 50 corpora_ and lexical
 resources such as WordNet, along with a suite of text processing libraries for
 classification, tokenization, stemming, tagging, parsing, and semantic
-reasoning. Good starting points would be `NLTK Wiki`_ and the `NLTK online book`_,
- which contains a lot of examples.
+reasoning. Good starting points would be `NLTK Wiki`_ and the 
+`NLTK online book`_, which contains a lot of examples.
 
 When working with Latvian language material, you have to create your own lexical
 resources, like `Latvian positive and negative sentiment words`_. See `Adding a
@@ -57,7 +57,7 @@ Have something to say? `Propose a talk`_.
 .. _TechHub Riga: http://bit.ly/techhub-riga
 .. _monthly workshop: http://bit.ly/pythonlv-ws-1
 .. _The Mill: http://bit.ly/millriga
-.. _pumours: http://bit.ly/1JKU0C4
+.. _@pumours: http://bit.ly/1JKU0C4
 .. _NLTK: http://bit.ly/1Ag8AQ8
 .. _presentation here: http://slidesha.re/1Ag8iIR
 .. _Latvian positive and negative sentiment words: http://bit.ly/1Cm86D2
