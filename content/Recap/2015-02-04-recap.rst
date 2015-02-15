@@ -5,34 +5,53 @@ February 4, 2015, NLTK meetup recap
 :authors: Janis Abele
 :slug: 2015-02-04-recap
 
-Wednesday February 4 another one of our monthly meetups took place at
-`TechHub Riga`_. The 27th to be precise. Pizza and cookies were on EGlobal,
-our first sponsor. We have decided to have our `monthly workshop`_ at `The
-Mill`_.
+Wednesday February 4th, monthly meetup took place at `TechHub Riga`_. Pizza and
+cookies were on EGlobal, who have bunch of pythonistas here in Latvia.
+
+To spark new ideas and get more together, we have decided to have our
+`monthly workshop`_ at `The Mill`_.
 
 NLTK
 ----
-Alberts Pumpurs (@pumours_) advice on using `NLTK`_ in real project, is to
-convince business of provided value aka money. You have to remember it's just a
-toolkit with a bunch of tools you have to compose to get desired result. For
-analysis of English text you get `corpora` for free. For Latvian analysis you are
-you have to do it for on your own, for example, compilation his
-`Latvian positive and negative sentiment wods`_.
+Alberts Pumpurs (@pumours_) gave a great overview of `NLTK`_ library in Python.
+He has shared `presentation here`_ . If you squint, then you can see some code
+examples there.
 
-Take a look at his Presentation_. If you squint you can see some code examples
-there.
+`NLTK`_ is a leading platform for building Python programs to work with human
+language data. It provides easy-to-use interfaces to over 50 corpora_ and lexical
+resources such as WordNet, along with a suite of text processing libraries for
+classification, tokenization, stemming, tagging, parsing, and semantic
+reasoning. Good starting point would be `NLTK Wiki`_ and `NLTK online book`_
+containing a lot of examples.
 
-Overfitting is a problem.
-Choosing dataset for your model image
-Test set size
+When working with Latvian language material, you have to create your own lexical
+resources, like `Latvian positive and negative sentiment wods`_. See `Adding a
+Corpus`_ documentation for details.
+
+To fine-tune and choose sample size consult this `scikit-learn algorithm
+cheat-sheet`_
+
+.. image:: http://scikit-learn.org/stable/_static/ml_map.png
+  :alt: scikit-learn algorithm cheat-sheet
 
 
-Evening closed out with discussion on SQLAlchemy sessions in Flask applications.
-If not careful they they can lead to subtle bugs like sharing information
-between users. So RTFM and consult experts.
+SQLAlchemy
+----------
+Evening closed out with discussion about `SQLAlchemy sessions`_ when you want to
+reuse code between interfaces like Flask_ and console application. In this
+use case `Flask-SQLAlchemy`_ extension won't cut it, you have to roll your own
+code. If not careful they they can lead to serous bugs like sharing 
+information between users. So before writing code involving sessions, RTFM_ and 
+consult experts. If you are one of the experts, then `propose a talk`_, we would
+like to hear your opinion.
 
-Our `next meetup`_ will be held on March 4th in wonderful `TechHub Riga`_
-premises.
+Upcoming events
+---------------
+- February 18th 19:00, first ever Python Latvia `monthly workshop`_ at 
+  `The Mill`_.
+- March 4th 19:00 `next meetup`_ at `TechHub Riga`_.
+
+Have something to say? `Propose a talk`_.
 
 
 .. _TechHub Riga: http://bit.ly/techhub-riga
@@ -40,7 +59,16 @@ premises.
 .. _The Mill: http://bit.ly/millriga
 .. _@pumours: http://bit.ly/1JKU0C4
 .. _NLTK: http://bit.ly/1Ag8AQ8
-.. _Presentation: http://slidesha.re/1Ag8iIR
+.. _presentation here: http://slidesha.re/1Ag8iIR
 .. _Latvian positive and negative sentiment wods: http://bit.ly/1Cm86D2
 .. _corpora: http://bit.ly/1Cm8gKN
 .. _next meetup: http://bit.ly/pythonlv28
+.. _NLTK Wiki: http://bit.ly/1EdicbP
+.. _NLTK online book: http://bit.ly/1EdilvX
+.. _Adding a Corpus: http://bit.ly/1EdiCz6
+.. _scikit-learn algorithm cheat-sheet: http://bit.ly/1EdlPPg
+.. _SQLAlchemy sessions: http://bit.ly/1EdmPTj
+.. _Flask: http://bit.ly/1EdmZu3
+.. _Flask-SQLAlchemy: http://bit.ly/1EdnqEL
+.. _RTFM: http://bit.ly/1EdmPTj
+.. _propose a talk: bit.ly/pythonlv-c4s
