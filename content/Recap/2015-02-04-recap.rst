@@ -1,6 +1,6 @@
 February 4, 2015, NLTK meetup recap
 ===================================
-:date: 2015-08-15
+:date: 2015-02-15 13:00
 :tags: Python, NLTK, Sentiment analysis, Flask, SQLAlchemy
 :authors: Janis Abele
 :slug: 2015-02-04-recap
