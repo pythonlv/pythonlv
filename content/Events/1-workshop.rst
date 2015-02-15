@@ -28,12 +28,13 @@ Food
 
 Come work on projects, get programming help, help others, and hang out.
 
-Python Latvia Workshop are unstructured chances for developers to work
+Python Latvia Workshops provide are freeform, generally unstructured events,
+providing the opportunity for developers to work
 together, mentor each other, connect socially, teach, learn, or do whatever else
 it is developers want to do together.
 
 It's a great way to build the Python/developer community, by allowing
-them to meet and interact in whatever way they find most beneficial.
+members to meet and interact in whatever way they find most beneficial.
 
 Need some project ideas? How about:
 
@@ -49,7 +50,7 @@ Projects and competitions
 -------------------------
 - Puzzles_!
 - Contribute to an open-source project that uses Python. Look for interesting
-  project on OpenHatch_ or CodeTriage_. If you contribute to an
+  projects on OpenHatch_ or CodeTriage_. If you contribute to an
   open source project that uses Python and want to help new contributors, 
   let us know in a comment!
 

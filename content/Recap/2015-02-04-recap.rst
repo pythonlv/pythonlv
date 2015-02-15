@@ -5,27 +5,27 @@ February 4, 2015, NLTK meetup recap
 :authors: Janis Abele
 :slug: 2015-02-04-recap
 
-Wednesday February 4th, monthly meetup took place at `TechHub Riga`_. Pizza and
-cookies were on EGlobal, who have bunch of pythonistas here in Latvia.
+On Wednesday, February 4th, our monthly meetup took place at `TechHub Riga`_. Pizza and
+cookies were provided courtesy of EGlobal, who have a bunch of pythonistas here in Latvia.
 
-To spark new ideas and get more together, we have decided to have our
+To spark new ideas, and get together more often, we have decided to have a
 `monthly workshop`_ at `The Mill`_.
 
 NLTK
 ----
-Alberts Pumpurs (@pumours_) gave a great overview of `NLTK`_ library in Python.
-He has shared `presentation here`_ . If you squint, then you can see some code
+Alberts Pumpurs (@pumours_) gave a great overview of the `NLTK`_ library in Python.
+He has shared his `presentation here`_ . If you squint, you can read some code
 examples there.
 
 `NLTK`_ is a leading platform for building Python programs to work with human
 language data. It provides easy-to-use interfaces to over 50 corpora_ and lexical
 resources such as WordNet, along with a suite of text processing libraries for
 classification, tokenization, stemming, tagging, parsing, and semantic
-reasoning. Good starting point would be `NLTK Wiki`_ and `NLTK online book`_
-containing a lot of examples.
+reasoning. Good starting points would be `NLTK Wiki`_ and the `NLTK online book`_,
+ which contains a lot of examples.
 
 When working with Latvian language material, you have to create your own lexical
-resources, like `Latvian positive and negative sentiment wods`_. See `Adding a
+resources, like `Latvian positive and negative sentiment words`_. See `Adding a
 Corpus`_ documentation for details.
 
 To fine-tune and choose sample size consult this `scikit-learn algorithm
@@ -37,13 +37,13 @@ cheat-sheet`_
 
 SQLAlchemy
 ----------
-Evening closed out with discussion about `SQLAlchemy sessions`_ when you want to
-reuse code between interfaces like Flask_ and console application. In this
-use case `Flask-SQLAlchemy`_ extension won't cut it, you have to roll your own
-code. If not careful they they can lead to serous bugs like sharing 
-information between users. So before writing code involving sessions, RTFM_ and 
+The evening closed with a discussion about `SQLAlchemy sessions`_ when you want to
+reuse code between interfaces like Flask_ and console applications. In this
+use case the `Flask-SQLAlchemy`_ extension won't cut it, you have to roll your own
+code. If you're not careful, this can lead to serious bugs like sharing 
+information between users. So, before writing code involving sessions, RTFM_ and 
 consult experts. If you are one of the experts, then `propose a talk`_, we would
-like to hear your opinion.
+like to hear your opinions and advice.
 
 Upcoming events
 ---------------
@@ -57,10 +57,10 @@ Have something to say? `Propose a talk`_.
 .. _TechHub Riga: http://bit.ly/techhub-riga
 .. _monthly workshop: http://bit.ly/pythonlv-ws-1
 .. _The Mill: http://bit.ly/millriga
-.. _@pumours: http://bit.ly/1JKU0C4
+.. _pumours: http://bit.ly/1JKU0C4
 .. _NLTK: http://bit.ly/1Ag8AQ8
 .. _presentation here: http://slidesha.re/1Ag8iIR
-.. _Latvian positive and negative sentiment wods: http://bit.ly/1Cm86D2
+.. _Latvian positive and negative sentiment words: http://bit.ly/1Cm86D2
 .. _corpora: http://bit.ly/1Cm8gKN
 .. _next meetup: http://bit.ly/pythonlv28
 .. _NLTK Wiki: http://bit.ly/1EdicbP
