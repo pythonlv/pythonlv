@@ -1,0 +1,58 @@
+February 18, 2015, #1 Workshop/Project Night recap
+==================================================
+:date: 2015-02-21 18:40
+:tags: Python, Table Tennis, Ping Pong, Brython, NLP
+:authors: Janis Abele
+:slug: 2015-02-18-recap
+
+Our first monthly workshop took place at `The Mill`_. This time cookies and
+green tea was on house.
+
+In hindsight, this event should have been called a Project Night. Because these
+events will be free flow and won't necessarily fit workshop format. And Project
+Night sound much much cooler than Workshop.
+
+Projects
+--------
+
+Results of this workshop are available at GitHub:
+
+- `daGrevis/pong-py`_ - old school game of pong done in Brython_ and runs in
+  browser. Worked on by `daGrevis`_ and `siers`_.
+- `abele/whatsmyrank`_ - table tennis ranking web application, done by `abele`_
+  and `zrks`_.
+
+Discussion
+----------
+- `Patterns Enhance Craft`_ three articles by Kent Beck.
+- Learning NLP from tutorials:
+
+  - `Part 1: For Beginners - Bag of Words`_
+  - `Part 2: Word Vectors`_
+  - `Part 3: More Fun With Word Vectors`_
+  - `How to build and run your first deep learning network`_
+
+Upcoming events
+---------------
+- March 4th 19:00, `Python on smartphones`_ meetup at `TechHub Riga`_.
+- March 18th 19:00, `Project night`_ at `The Mill`_.
+
+Have something to say? `Propose a talk`_.
+
+.. _The Mill: http://bit.ly/millriga
+.. _daGrevis/pong-py: http://bit.ly/1EgfnsL
+.. _Brython: http://bit.ly/1EgfZ1z
+.. _daGrevis: http://bit.ly/1Egfuog
+.. _siers: http://bit.ly/1EgfAfy
+.. _abele/whatsmyrank: http://bit.ly/1EgeEYM
+.. _abele: http://bit.ly/1EgfDIe
+.. _zrks: http://bit.ly/1EgfJQ8
+.. _Python on smartphones: http://bit.ly/pythonlv28
+.. _TechHub Riga: http://bit.ly/techhub-riga
+.. _propose a talk: http://bit.ly/pythonlv-c4s
+.. _Project night: http://bit.ly/pn-2
+.. _Patterns Enhance Craft: http://on.fb.me/1EgiZeg
+.. _How to build and run your first deep learning network: http://oreil.ly/1EgkgSR
+.. _`Part 1: For Beginners - Bag of Words`: http://bit.ly/1EgkCc3
+.. _`Part 2: Word Vectors`: http://bit.ly/1EgkFES
+.. _`Part 3: More Fun With Word Vectors`: http://bit.ly/1EgkERi
