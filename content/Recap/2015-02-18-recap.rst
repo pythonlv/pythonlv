@@ -6,10 +6,10 @@ February 18, 2015, #1 Workshop/Project Night recap
 :slug: 2015-02-18-recap
 
 Our first monthly workshop took place at `The Mill`_. This time cookies and
-green tea was on house.
+green tea were on the house.
 
 In hindsight, this event should have been called a Project Night. Because these
-events will be free flow and won't necessarily fit workshop format. And Project
+events will be free flow and won't necessarily fit a workshop format. And Project
 Night sound much much cooler than Workshop.
 
 Projects
@@ -18,7 +18,7 @@ Projects
 Results of this workshop are available at GitHub:
 
 - `daGrevis/pong-py`_ - old school game of pong done in Brython_ and runs in
-  browser. Worked on by `daGrevis`_ and `siers`_.
+  the browser. Worked on by `daGrevis`_ and `siers`_.
 - `abele/whatsmyrank`_ - table tennis ranking web application, done by `abele`_
   and `zrks`_.
 

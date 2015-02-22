@@ -27,13 +27,13 @@ Sponsors
 **Aigars Mahinovs** (http://aigarius.com/) will show how to create Android and 
 iOS application using our favorite programming language.
 
-He is a active member of open source community, one of LAKA_ founding members,
+He is an active member of the open source community, one of LAKA_ founding members,
 Python programmer, and Debian developer.
 
 Agenda
 ------
 - 19:00 - Mingling, snacks
-- 19:15 - **Aigars Mahinovs** about Python application on smartphone
+- 19:15 - **Aigars Mahinovs** about Python applications on smartphones
 - 19:45 - Q&A, show and tell
 - 20:20 - **Chill**
 
