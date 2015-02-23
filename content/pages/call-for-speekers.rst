@@ -1,5 +1,6 @@
 Call 4 Speakers
 ===============
+:date: 2015-02-23 20:31:47+02:00
 :slug: call-for-speekers
 
 Anyone with any level of Python knowledge is a candidate for a great talk. As we have attendees of all kinds, we need speakers of all kinds.

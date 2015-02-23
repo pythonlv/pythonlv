@@ -1,5 +1,6 @@
 About
 =====
+:date: 2015-02-23 20:31:47+02:00
 :slug: about
 
 Python Latvia was created with the goal of bringing together developers,

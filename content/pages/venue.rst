@@ -1,5 +1,6 @@
 Venue
 =====
+:date: 2015-02-23 20:31:47+02:00
 :slug: venue
 
 Python Latvia meetup events take place at `TechHub Riga`_

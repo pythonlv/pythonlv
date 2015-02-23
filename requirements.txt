@@ -1,2 +1,3 @@
 pelican
 google_embed==0.1.0
+pelican-extended-sitemap==1.0.1
