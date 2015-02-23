@@ -1,6 +1,6 @@
 #28 Meetup - Python on smartphones
 ==================================
-:date: 2015-02-15 14:58
+:date: 2015-02-23 08:42:16+02:00
 :slug: 28-meetup
 
 When
