@@ -2,7 +2,6 @@
 ==================================
 :date: 2015-02-15 14:58
 :slug: 28-meetup
-:status: draft
 
 When
     Wednesday, March 4, 2015 7:00 PM
