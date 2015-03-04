@@ -71,4 +71,4 @@ Have something to say? `Propose a talk`_.
 .. _Flask: http://bit.ly/1EdmZu3
 .. _Flask-SQLAlchemy: http://bit.ly/1EdnqEL
 .. _RTFM: http://bit.ly/1EdmPTj
-.. _propose a talk: bit.ly/pythonlv-c4s
+.. _propose a talk: http://bit.ly/pythonlv-c4s
