@@ -1,5 +1,5 @@
-#1 Workshop
-===========
+#2 Project Night
+================
 :date: 2015-03-18 13:04:47+02:00
 :slug: 2-project-night
 
