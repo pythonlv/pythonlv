@@ -1,0 +1,69 @@
+March 18, 2015, #2 Project Night recap
+======================================
+:date: 2015-03-19
+:tags: Python, Table Tennis, Ping Pong, Brython, Markov chain, Pair-programming
+:authors: Janis Abele
+:slug: 2015-03-18-recap
+
+Our second monthly workshop took place at `The Mill`_. Thanks to those who
+helped out with beer and pizza. We worked on projects started in previous event
+and started couple new ones.
+
+Projects
+--------
+
+Results of this workshop are available at GitHub:
+
+- `daGrevis/pong-py`_ - old school game of pong done in Brython_ and runs in
+  the browser. Worked on by `daGrevis`_ and `siers`_.
+- `zrks/Markov`_ - Markov chains for http://developers.lv IRC chat log. Worked on
+  by `zrks`_ and `SpiegS`_.
+- There was attempt at contributing to 
+  `andreyfedoseev/django-static-precompiler`_ , but after research we realized
+  that there wasn't a trivial solution for a problem.
+
+
+Discussion
+----------
+
+Pair-Programming Styles
+```````````````````````
+Driver-Navigator
+  One member has the keyboard and control of the input. Their job is to type and
+  focus on the minute-to-minute coding. The other member is the navigator. Their
+  job is to pay attention to the code being written, but keep the larger picture
+  in mind, guiding the driver in the right direction. The pair should swap roes
+  frequently.
+
+Ping-Pong Pairing
+  Has two basic forms. First is where one members takes role of test writer, and
+  the other takes on the role of getting the tests pass.
+  The second style of ping-pong is where one member writes tests and the other
+  makes it pass and writes another test, then control is passed back.
+  Both members are writing code frequently. 
+
+What to look out for when pair-programming -  `Promiscuous Pairing and Beginner's Mind`_
+
+Upcoming events
+---------------
+- April 1st, 19:00, `Generative Testing`_ at `TechHub Riga`_.
+- April 15th, 19:00, `Project night`_ at `The Mill`_.
+
+Have something to say? `Propose a talk`_.
+
+.. _The Mill: http://bit.ly/millriga
+.. _daGrevis/pong-py: http://bit.ly/1EgfnsL
+.. _Brython: http://bit.ly/1EgfZ1z
+.. _daGrevis: http://bit.ly/1Egfuog
+.. _siers: http://bit.ly/1EgfAfy
+.. _abele: http://bit.ly/1EgfDIe
+.. _zrks: http://bit.ly/1EgfJQ8
+.. _Python on smartphones: http://bit.ly/pythonlv28
+.. _TechHub Riga: http://bit.ly/techhub-riga
+.. _propose a talk: http://bit.ly/pythonlv-c4s
+.. _zrks/Markov: https://github.com/zrks/Markov
+.. _SpiegS: https://github.com/SpiegS
+.. _andreyfedoseev/django-static-precompiler: https://github.com/andreyfedoseev/django-static-precompiler
+.. _Promiscuous Pairing and Beginner's Mind: http://csis.pace.edu/~grossman/dcs/XR4-PromiscuousPairing.pdf
+.. _Generative Testing: http://www.meetup.com/python-lv/events/221104620/
+.. _Project night: http://www.meetup.com/python-lv/events/221254495/
