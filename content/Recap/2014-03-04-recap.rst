@@ -1,0 +1,53 @@
+March 4, 2015, #28 Meetup - Python on smartphones recap
+=======================================================
+:date: 2015-03-09 00:30
+:tags: Python, Kivy, iOS, Android
+:authors: Janis Abele
+:slug: 2015-03-04-recap
+
+On Wednesday, March 4th, our monthly meetup took place at `TechHub Riga`_. 
+Pizza and cookies were provided courtesy of EGlobal, who have a bunch of 
+pythonistas here in Latvia.
+
+Kivy
+----
+**Aigars Mahinovs** (http://aigarius.com/) showed us how to build Android and
+iOS application with Kivy_.
+
+Kivy is a Open source Python library for rapid development of applications
+that make use of innovative user interfaces, such as multi-touch apps.
+It runs on Linux, Windows, OS X, Android and iOS. You can run the same code on
+all supported platforms. It can use natively most inputs, protocols and devices. 
+
+Only drawback is lack of native look and feel. But there is some work done in
+this direction.
+
+Links from presentation
+-----------------------
+
+- http://kivy.org/ - Open source Python library for rapid development of
+  applications
+- https://github.com/kivy/plyer - Plyer is a platform-independent api to use
+  features commonly found on various platforms, notably mobile ones, in Python.
+- https://github.com/kivy/buildozer - Generic Python packager for Android, iOS
+  and Desktop
+- https://github.com/aigarius/simplekivy - simple kivy application example by
+  Aigars
+- http://kivy.org/docs/examples/gen__demo__camera_puzzle__py.html - This
+  demonstrates using Scatter widgets with a live camera. 
+- http://pythonprogramming.net/kivy-application-navigation/ - adding better
+  navigation in Kivy
+
+Upcoming events
+---------------
+- March 18th 19:00, `Project night`_ at `The Mill`_.
+- April 1st 19:00, `Generative Testing`_ at `TechHub Riga`_.
+
+Have something to say? `Propose a talk`_.
+
+.. _Kivy: http://kivy.org/
+.. _TechHub Riga: http://bit.ly/techhub-riga
+.. _The Mill: http://bit.ly/millriga
+.. _Generative Testing: http://www.meetup.com/python-lv/events/221104620/
+.. _propose a talk: http://bit.ly/pythonlv-c4s
+.. _Project night: http://bit.ly/pn-2
