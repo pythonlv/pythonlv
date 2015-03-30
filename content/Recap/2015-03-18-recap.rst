@@ -36,10 +36,10 @@ Driver-Navigator
   frequently.
 
 Ping-Pong Pairing
-  Has two basic forms. First is where one members takes role of test writer, and
-  the other takes on the role of getting the tests pass.
-  The second style of ping-pong is where one member writes tests and the other
-  makes it pass and writes another test, then control is passed back.
+  Has two basic forms. First is where one members takes the role of test writer, and
+  the other takes on the role of getting the tests to pass.
+  The second style of ping-pong is where one member writes a test and the other
+  makes it pass, then and writes another test and control is passed back.
   Both members are writing code frequently. 
 
 What to look out for when pair-programming -  `Promiscuous Pairing and Beginner's Mind`_
