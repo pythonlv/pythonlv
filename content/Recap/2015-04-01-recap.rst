@@ -54,7 +54,7 @@ Web scraping
   the data you need from websites. In a fast, simple, yet extensible way.
 - https://github.com/jmcarp/robobrowser - RoboBrowser: Your friendly
   neighborhood web scraper
-- http://www.binpress.com/tutorial/manipulating-pdfs-with-python/ - PDF
+- https://www.binpress.com/tutorial/manipulating-pdfs-with-python/167 - PDF
   scraping.
 - http://www.one-tab.com/page/SUeJFBWUQkKaCsl6rsfB2g - web scraping article
   compilation.
