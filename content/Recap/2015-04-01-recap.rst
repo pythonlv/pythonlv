@@ -5,14 +5,13 @@ March 4, 2015, #29 Meetup - April Fools' Day
 :authors: Janis Abele
 :slug: 2015-04-01-recap
 
-On Wednesday, April 1st, our monthly meetup took place at `TechHub Riga`_. And
-that wasn't a joke, real meetup with a real people.
+On Wednesday, April 1st, our monthly meetup took place at `TechHub Riga`_. No joke, a real meetup with real people.
 Pizza and cookies were provided courtesy of EGlobal, who have a bunch of 
 pythonistas here in Latvia.
 
-This time it was bit different. Instead of presentation we enjoyed food and had
-circle of trust, chatting about a things that interests us. We shared our ideas
-and opinions about languages, projects and unpredictable future.
+This time it was bit different. Instead of a presentation we enjoyed food and had
+a circle of trust, chatting about things that interest us. We shared our ideas
+and opinions about languages, projects and the unpredictable future.
 
 Discussions
 -----------
@@ -21,7 +20,7 @@ Processing large datasets
 `````````````````````````
 - http://blaze.pydata.org/en/latest/ - Blaze translates a subset of modified
   NumPy and Pandas-like syntax to databases and other computing systems. Blaze
-  allows Python users a familiar interface to query data living in other data
+  gives Python users a familiar interface to query data living in other data
   storage systems.
 - https://into.readthedocs.org/en/latest/ - Data migration utilities
 - http://lxml.de/sax.html - lxml support for SAX.
@@ -64,7 +63,7 @@ Data science
 ````````````
 - http://pandas.pydata.org/ - Python Data Analysis Library
 - http://scikit-learn.org/ - Machine Learning in Python
-- http://gmvault.org/ - Gmvault Gmail Backup, to get your email as dataset.
+- http://gmvault.org/ - Gmvault Gmail Backup, to get your email as a dataset.
 - http://shop.oreilly.com/product/0636920023784.do - Python for Data Analysis
   Data Wrangling with Pandas, NumPy, and IPython
 - http://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html
