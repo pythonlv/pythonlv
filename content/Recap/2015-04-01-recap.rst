@@ -1,0 +1,96 @@
+March 4, 2015, #29 Meetup - April Fools' Day
+============================================
+:date: 2015-04-01 23:36:02+03:00
+:tags: Python, pizza, free form
+:authors: Janis Abele
+:slug: 2015-04-01-recap
+
+On Wednesday, April 1st, our monthly meetup took place at `TechHub Riga`_. And
+that wasn't a joke, real meetup with a real people.
+Pizza and cookies were provided courtesy of EGlobal, who have a bunch of 
+pythonistas here in Latvia.
+
+This time it was bit different. Instead of presentation we enjoyed food and had
+circle of trust, chatting about a things that interests us. We shared our ideas
+and opinions about languages, projects and unpredictable future.
+
+Discussions
+-----------
+
+Processing large datasets
+`````````````````````````
+- http://blaze.pydata.org/en/latest/ - Blaze translates a subset of modified
+  NumPy and Pandas-like syntax to databases and other computing systems. Blaze
+  allows Python users a familiar interface to query data living in other data
+  storage systems.
+- https://into.readthedocs.org/en/latest/ - Data migration utilities
+- http://lxml.de/sax.html - lxml support for SAX.
+- http://wikisearch.net - Live Clusterpoint database technology demonstration
+
+Freelancing
+```````````
+- http://devchat.tv/freelancers/ - Freelancing podcast.
+- http://doubleyourfreelancing.com/ - Brennan Dunn on freelancing.
+- http://www.toptal.com/ - Hire the top 3% of freelance developers.
+
+Duck Typing
+```````````
+- http://c2.com/cgi/wiki?DuckTyping
+- http://rhodesmill.org/brandon/slides/2013-03-pycon/ and video at
+  https://youtu.be/YklKUuDpX5c - The Naming of Ducks: Where Dynamic Types Meet
+  Smart Conventions
+
+StackOverflow data
+``````````````````
+- https://archive.org/details/stackexchange - Stack Exchange Data Dump. Torrent
+  file with XML files.
+
+Web scraping
+````````````
+- http://jakeaustwick.me/python-web-scraping-resource/ - Python web scraping 
+  resource
+- https://github.com/vinta/awesome-python#web-crawling - Libraries for scraping
+  websites.
+- http://scrapy.org/ - An open source and collaborative framework for extracting
+  the data you need from websites. In a fast, simple, yet extensible way.
+- https://github.com/jmcarp/robobrowser - RoboBrowser: Your friendly
+  neighborhood web scraper
+- http://www.binpress.com/tutorial/manipulating-pdfs-with-python/ - PDF
+  scraping.
+- http://www.one-tab.com/page/SUeJFBWUQkKaCsl6rsfB2g - web scraping article
+  compilation.
+
+Data science
+````````````
+- http://pandas.pydata.org/ - Python Data Analysis Library
+- http://scikit-learn.org/ - Machine Learning in Python
+- http://gmvault.org/ - Gmvault Gmail Backup, to get your email as dataset.
+- http://shop.oreilly.com/product/0636920023784.do - Python for Data Analysis
+  Data Wrangling with Pandas, NumPy, and IPython
+- http://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html
+  Machine Learning Cheat Sheet (for scikit-learn)
+
+Online courses:
+
+- http://shop.oreilly.com/product/0636920029182.do - Thinking with Data
+  How to Turn Information into Insights
+- http://shop.oreilly.com/product/0636920028918.do - Data Science for Business
+  What you need to know about data mining and data-analytic thinking
+- http://shop.oreilly.com/product/9781118661468.do - Data Smart
+  Using Data Science to Transform Information into Insight. 
+  Trailer for the book http://www.john-foreman.com/data-smart-book.html
+
+Upcoming events
+---------------
+- 2015-04-15 19:00, `Project night`_ at `The Mill`_.
+- 2015-05-06 19:00, `Monthly meetup with presentation`_ at `TechHub Riga`_.
+
+Have something to say? `Propose a talk`_.
+
+.. _TechHub Riga: http://bit.ly/techhub-riga
+.. _The Mill: http://bit.ly/millriga
+
+.. _Project night: http://bit.ly/pn-3
+.. _Monthly meetup with presentation: http://bit.ly/pythonlv30
+
+.. _Propose a talk: http://bit.ly/pythonlv-c4s
