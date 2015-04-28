@@ -1,0 +1,59 @@
+======================================
+April 15, 2015, #3 Project Night recap
+======================================
+:tags: ReactiveX, Brython, Functional Programming 
+:authors: Janis Abele
+:slug: 2015-04-15-recap
+
+For the third time Project Night took place at `The Mill`_. It was great to see
+increase in attendance. In pairs we worked on projects started in previous event
+and tried out new things.
+
+Thanks to those who helped out with beer and pizza.
+
+Projects
+========
+Some projects are available at GitHub:
+
+- `daGrevis/pong-py`_ - Pong_ remake in Brython_ a Python interpreter that runs
+  in the browser. Worked on by well established duo  `daGrevis`_ and `siers`_.
+- `zrks`_ 
+- `algaruda`_ built and deployed simple `Kivy`_ mobile application.
+- Inspired by `Go Reactive Workshop`_ and ReactiveX_, `gstrazds`_ and `abele`_ 
+  tried to use combine `Rx` in desktop application.
+
+Discussion
+==========
+- Learn functional programming in Javascript - a interactive tutorial teaching 
+  functional programming and ReactiveX_ basics .
+- Freelancing basic concepts.
+
+Upcoming events
+===============
+- May 6th, 19:00, `ReactiveX Basics`_ at `TechHub Riga`_.
+- May 20th, 19:00, `Project Night`_
+
+.. note::
+
+  Have something to say? `Propose a talk`_.
+
+.. _The Mill: http://bit.ly/millriga
+.. _daGrevis/pong-py: http://bit.ly/1EgfnsL
+.. _Pong: https://en.wikipedia.org/wiki/Pong
+.. _Brython: http://brython.info/
+.. _daGrevis: https://github.com/daGrevis/
+.. _siers: https://github.com/siers/
+.. _zrks: https://github.com/zrks/
+.. _algaruda: https://github.com/algaruda/
+.. _Kivy: http://kivy.org/#home
+.. _Go Reactive Workshop: http://www.meetup.com/Latvian-Developers-Network/events/220739388/
+.. _ReactiveX: http://reactivex.io/
+.. _gstrazds: https://github.com/gstrazds/
+.. _abele: https://github.com/abele/
+.. _Rx: https://pypi.python.org/pypi/Rx
+
+.. _ReactiveX Basics: http://www.meetup.com/python-lv/events/221748871/
+.. _TechHub Riga: http://bit.ly/techhub-riga
+.. _Project Night: http://www.meetup.com/python-lv/events/221520795/
+
+.. _propose a talk: http://bit.ly/pythonlv-c4s
