@@ -34,9 +34,7 @@ Upcoming events
 - May 6th, 19:00, `ReactiveX Basics`_ at `TechHub Riga`_.
 - May 20th, 19:00, `Project Night`_
 
-.. note::
-
-  Have something to say? `Propose a talk`_.
+**Have something to say?** `Propose a talk`_.
 
 .. _The Mill: http://bit.ly/millriga
 .. _daGrevis/pong-py: http://bit.ly/1EgfnsL
