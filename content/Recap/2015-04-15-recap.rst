@@ -2,15 +2,16 @@
 April 15, 2015, #3 Project Night recap
 ======================================
 :date: 2015-04-29 18:35:54+03:00
-:tags: ReactiveX, Brython, Functional Programming
+:tags: ReactiveX, Brython, Functional Programming, Remakes
 :authors: Janis Abele
 :slug: 2015-04-15-recap
 
-For the third time Project Night took place at `The Mill`_. It was great to see
-increase in attendance. In pairs we worked on projects started in previous event
-and tried out new things.
+It was great to see growth in attendance and interest. After short a
+introduction and discussion on things we would like to try out, we got down to
+the work. We split in pairs and continued existing projects or played around
+with new technology.
 
-Thanks to those who helped out with beer and pizza.
+Thanks to those who helped out with a beer and pizza.
 
 Projects
 ========
@@ -26,8 +27,8 @@ Some projects are available at GitHub:
 
 Discussion
 ==========
-- Learn functional programming in Javascript - a interactive tutorial teaching 
-  functional programming and ReactiveX_ basics .
+- Learn functional programming in Javascript - a interactive tutorial teaching
+  functional programming and ReactiveX_ basics.
 - Freelancing basic concepts.
 
 Upcoming events
