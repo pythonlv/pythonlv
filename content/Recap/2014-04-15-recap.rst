@@ -1,10 +1,10 @@
 ======================================
 April 15, 2015, #3 Project Night recap
 ======================================
-:tags: ReactiveX, Brython, Functional Programming 
+:date: 2015-04-29 18:35:54+03:00
+:tags: ReactiveX, Brython, Functional Programming
 :authors: Janis Abele
 :slug: 2015-04-15-recap
-:status: draft
 
 For the third time Project Night took place at `The Mill`_. It was great to see
 increase in attendance. In pairs we worked on projects started in previous event
@@ -17,11 +17,12 @@ Projects
 Some projects are available at GitHub:
 
 - `daGrevis/pong-py`_ - Pong_ remake in Brython_ a Python interpreter that runs
-  in the browser. Worked on by well established duo  `daGrevis`_ and `siers`_.
-- `zrks`_ 
-- `algaruda`_ built and deployed simple `Kivy`_ mobile application.
-- Inspired by `Go Reactive Workshop`_ and ReactiveX_, `gstrazds`_ and `abele`_ 
-  tried to use combine `Rx` in desktop application.
+  in the browser. Worked on by well established duo  daGrevis_ and siers_.
+- zrks_ with SangSatori_ researched available frameworks to build Karogs_ remake
+  in browser.
+- algaruda_ built and deployed simple `Kivy`_ mobile application.
+- Inspired by `Go Reactive Workshop`_ and ReactiveX_, gstrazds_ and abele_
+  tried to use combine Rx_ in desktop application.
 
 Discussion
 ==========
@@ -43,6 +44,8 @@ Upcoming events
 .. _daGrevis: https://github.com/daGrevis/
 .. _siers: https://github.com/siers/
 .. _zrks: https://github.com/zrks/
+.. _Karogs: http://dl.tilde.lv/download/TildesBirojs/HTML.Help/index.html?stratciiska_spcle_karogs.htm
+.. _SangSatori:  https://github.com/SangSatori/
 .. _algaruda: https://github.com/algaruda/
 .. _Kivy: http://kivy.org/#home
 .. _Go Reactive Workshop: http://www.meetup.com/Latvian-Developers-Network/events/220739388/
