@@ -6,12 +6,12 @@ April 15, 2015, #3 Project Night recap
 :authors: Janis Abele
 :slug: 2015-04-15-recap
 
-It was great to see growth in attendance and interest. After short a
+It was great to see growth in attendance and interest. After a short
 introduction and discussion on things we would like to try out, we got down to
-the work. We split in pairs and continued existing projects or played around
+work. We split up into pairs and continued existing projects or played around
 with new technology.
 
-Thanks to those who helped out with a beer and pizza.
+Thanks to those who helped out with beer and pizza.
 
 Projects
 ========
@@ -23,11 +23,11 @@ Some projects are available at GitHub:
   in browser.
 - algaruda_ built and deployed simple `Kivy`_ mobile application.
 - Inspired by `Go Reactive Workshop`_ and ReactiveX_, gstrazds_ and abele_
-  tried to use combine Rx_ in desktop application.
+  tried to convert an existing desktop application to use Rx_.
 
 Discussion
 ==========
-- Learn functional programming in Javascript - a interactive tutorial teaching
+- Learn functional programming in Javascript - an interactive tutorial teaching
   functional programming and ReactiveX_ basics.
 - Freelancing basic concepts.
 
