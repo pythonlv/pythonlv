@@ -27,15 +27,19 @@ Food
     <a href="http://www.meetup.com/python-lv/events/221748871/"
     data-event="221748871" class="mu-rsvp-btn">RSVP</a>
 
-Come work on projects, get programming help, help others, and hang out.
+After struggling to get new and interesting talks form our monthly meetups we
+have decided to ditch this format. Instead we will have a Project Night twice a
+month. This gives us a chance to spend more time together doing things we love
+and prepare occasional top notch talk. Have different opinion? Come hang in the
+chat_.
 
-Python Latvia Workshops provide are freeform, generally unstructured events,
-providing the opportunity for developers to work
-together, mentor each other, connect socially, teach, learn, or do whatever else
-it is developers want to do together.
+For those who don't know, Project Nights are freeform, generally unstructured 
+events, providing the opportunity for developers to work together, mentor each 
+other, connect socially, teach, learn, or do whatever else it is developers want 
+to do together.
 
-It's a great way to build the Python/developer community, by allowing
-members to meet and interact in whatever way they find most beneficial.
+It's a great way to build the Python/developer community, by allowing members to 
+meet and interact in whatever way they find most beneficial.
 
 Need some project ideas? How about:
 
@@ -83,6 +87,7 @@ Upcoming events
 .. _TechHub Riga: http://bit.ly/techhub-riga
 .. _Become a sponsor: mailto:janis.abele@gmail.com?subject=Python%20Latvia%20Sponsorship
 .. _Propose a talk: http://bit.ly/pythonlv-c4s
+.. _chat: https://gitter.im/pythonlv/pythonlv
 .. _Where's the best place to find project to hack on: http://www.reddit.com/r/Python/comments/3085z8/wheres_the_best_place_to_find_projects_to_hack_on/
 .. _Kindling projects: http://nedbatchelder.com/text/kindling.html
 .. _MakeRiga Hacking competition: http://www.meetup.com/Make-Riga/events/222270552/
