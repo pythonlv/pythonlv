@@ -27,7 +27,7 @@ Food
     <a href="http://www.meetup.com/python-lv/events/221748871/"
     data-event="221748871" class="mu-rsvp-btn">RSVP</a>
 
-After struggling to get new and interesting talks form our monthly meetups we
+After struggling to get new and interesting talks for our monthly meetups we
 have decided to ditch this format. Instead we will have a Project Night twice a
 month. This gives us a chance to spend more time together doing things we love
 and prepare occasional top notch talk. Have different opinion? Come hang in the
