@@ -1,0 +1,86 @@
+======================================
+May 6, 2015, #4 Project Night Recap
+======================================
+:date: 2015-05-07 18:35:54+03:00
+:tags: ReactiveX, Functional Programming, Haskell, NoSQL, Django, Brython, Vagrant
+:authors: Albert Garuda
+:slug: 2015-05-06-recap
+
+Together we agreed that hands-on is much more exciting then raw blah-blah-blah, and have completely switched to #PyNight format. Discussions and speakers always welcome as an addition to code.
+We had lots of fun, coding together and late night techn'o'sophic chatting.
+
+Projects
+========
+- abele_ , algaruda_ and Aleksejs still inspired by `Go Reactive Workshop`_ and ReactiveX_ were digging into functional_, porting `ReactiveX tutorial`_ to python_
+- daGrevis_ and siers_ continued with pong-py_ implementation of Pong_ in Brython_
+- zrks_ and gstrazds_ found a way to access `Vagrant API`_ through a web page
+- dtwdevelop_ was doing some Django_
+
+Discussion
+========
+- Beauty of pythonic Zen_
+- Benefits of functional_
+- How implementation of map runs fast pythonic way and kills PC recursive way
+- Why PHP is bad
+- Haskell_ as awesome functional language that nobody uses
+- Types and benefits of NoSQL
+- Brain killers on meditation
+- What is important to make positions of `Python even stronger`_: Windows (`Visual Studio Python Tools`_), Games dev (PyGame_), Mobile (Kivy_)
+- Geeky jokes the way we like
+
+Links
+========
+- `CoderByte`_ - Cool programming challenges (also in Python)
+- Eve_ - simple Python REST framework
+- `JSON API`_ - Standard for building APIs in JSON
+- `Technology radar 2015`_
+- `TryHaskell:`_ - interactive Haskell_ shell + tuts	
+	
+Upcoming events
+========
+
+- May 20th, 19:00, `Python Project Night`_
+
+- May 12th, 19:00, `TechHub Riga Meetup`_
+- May 16th, 10:00, `Wildcard Unconference 2015`_
+- May 22th-24th, `Riga Startup Weekend`_
+- May 23th, 10:00, `Agile Day Riga 2015`_
+- May 30th, 13:00, `MakeRiga Hacking competition`_
+	
+**Have something to say?** `Propose a talk`_.
+
+.. _TechHub Riga Meetup: http://www.meetup.com/techhubriga/events/219506607/
+.. _Wildcard Unconference 2015: http://www.meetup.com/Latvian-Developers-Network/events/219651898/
+.. _Python Project Night: http://www.meetup.com/python-lv/events/221520795/
+.. _Riga Startup Weekend: https://www.facebook.com/events/1376910802632989/
+.. _Agile Day Riga 2015: http://www.meetup.com/Agile-Latvia/events/220003765/
+.. _MakeRiga Hacking competition: http://www.meetup.com/Make-Riga/events/222270552/
+.. _Go Reactive Workshop: http://www.meetup.com/Latvian-Developers-Network/events/220739388/
+.. _ReactiveX: http://reactivex.io/
+.. _abele: https://github.com/abele/
+.. _algaruda: https://github.com/algaruda/
+.. _gstrazds: https://github.com/gstrazds/
+.. _daGrevis: https://github.com/daGrevis/
+.. _siers: https://github.com/siers/
+.. _zrks: https://github.com/zrks/
+.. _Pong: https://en.wikipedia.org/wiki/Pong
+.. _Brython: http://brython.info/
+.. _pong-py: http://bit.ly/1EgfnsL
+.. _functional: http://anandology.com/python-practice-book/functional-programming.html
+.. _ReactiveX Tutorial: http://reactive-extensions.github.io/learnrx/
+.. _python: https://www.python.org/
+.. _Vagrant API: http://www.vagrantup.com
+.. _Django: https://www.djangoproject.com/
+.. _Python even stronger: https://www.youtube.com/watch?v=d1a4Jbjc-vU
+.. _Visual Studio Python Tools: https://pytools.codeplex.com/
+.. _PyGame: http://www.pygame.org/news.html
+.. _Kivy: http://kivy.org/
+.. _Technology radar 2015: http://assets.thoughtworks.com/assets/technology-radar-may-2015-en.pdf
+.. _JSON API: http://jsonapi.org/
+.. _Haskell: https://www.haskell.org/
+.. _TryHaskell: http://tryhaskell.org/
+.. _Eve: http://python-eve.org/
+.. _CoderByte: http://www.coderbyte.com/
+.. _dtwdevelop: http://www.meetup.com/python-lv/members/185650105/
+.. _Zen: https://www.python.org/dev/peps/pep-0020/
+.. _propose a talk: http://bit.ly/pythonlv-c4s
