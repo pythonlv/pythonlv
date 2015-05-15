@@ -34,12 +34,12 @@ Links
 - Eve_ - simple Python REST framework
 - `JSON API`_ - Standard for building APIs in JSON
 - `Technology radar 2015`_
-- `TryHaskell:`_ - interactive Haskell_ shell + tuts	
+- `TryHaskell`_ - interactive Haskell_ shell + tuts	
 	
 Upcoming events
 ========
 
-- May 20th, 19:00, `Python Project Night`_
+- May 27th, 19:00, next `#PyNight`_
 
 - May 12th, 19:00, `TechHub Riga Meetup`_
 - May 16th, 10:00, `Wildcard Unconference 2015`_
@@ -51,7 +51,7 @@ Upcoming events
 
 .. _TechHub Riga Meetup: http://www.meetup.com/techhubriga/events/219506607/
 .. _Wildcard Unconference 2015: http://www.meetup.com/Latvian-Developers-Network/events/219651898/
-.. _Python Project Night: http://www.meetup.com/python-lv/events/221520795/
+.. _#PyNight: http://www.meetup.com/python-lv/events/221520795/
 .. _Riga Startup Weekend: https://www.facebook.com/events/1376910802632989/
 .. _Agile Day Riga 2015: http://www.meetup.com/Agile-Latvia/events/220003765/
 .. _MakeRiga Hacking competition: http://www.meetup.com/Make-Riga/events/222270552/
