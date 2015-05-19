@@ -1,23 +1,28 @@
-======================================
+===================================
 May 6, 2015, #4 Project Night Recap
-======================================
+===================================
 :date: 2015-05-07 18:35:54+03:00
 :tags: ReactiveX, Functional Programming, Haskell, NoSQL, Django, Brython, Vagrant
 :authors: Albert Garuda
 :slug: 2015-05-06-recap
 
-Together we agreed that hands-on is much more exciting then raw blah-blah-blah, and have completely switched to #PyNight format. Discussions and speakers always welcome as an addition to code.
+Together we agreed that hands-on is much more exciting then raw blah-blah-blah, 
+and have completely switched to #PyNight format. Discussions and speakers always 
+welcome as an addition to code.
 We had lots of fun, coding together and late night techn'o'sophic chatting.
 
 Projects
 ========
-- abele_ , algaruda_ and Aleksejs still inspired by `Go Reactive Workshop`_ and ReactiveX_ were digging into functional_, porting `ReactiveX tutorial`_ to python_
-- daGrevis_ and siers_ continued with pong-py_ implementation of Pong_ in Brython_
+- abele_ , algaruda_ and Aleksejs still inspired by `Go Reactive Workshop`_ 
+  and ReactiveX_ were digging into functional_, porting `ReactiveX tutorial`_ 
+  to python_
+- daGrevis_ and siers_ continued with pong-py_ implementation of Pong_ in 
+  Brython_
 - zrks_ and gstrazds_ found a way to access `Vagrant API`_ through a web page
 - dtwdevelop_ was doing some Django_
 
 Discussion
-========
+==========
 - Beauty of pythonic Zen_
 - Benefits of functional_
 - How implementation of map runs fast pythonic way and kills PC recursive way
@@ -29,16 +34,15 @@ Discussion
 - Geeky jokes the way we like
 
 Links
-========
+=====
 - `CoderByte`_ - Cool programming challenges (also in Python)
 - Eve_ - simple Python REST framework
 - `JSON API`_ - Standard for building APIs in JSON
 - `Technology radar 2015`_
 - `TryHaskell`_ - interactive Haskell_ shell + tuts	
-	
-Upcoming events
-========
 
+Upcoming events
+===============
 - May 27th, 19:00, next `#PyNight`_
 
 - May 12th, 19:00, `TechHub Riga Meetup`_
@@ -46,7 +50,7 @@ Upcoming events
 - May 22th-24th, `Riga Startup Weekend`_
 - May 23th, 10:00, `Agile Day Riga 2015`_
 - May 30th, 13:00, `MakeRiga Hacking competition`_
-	
+
 **Have something to say?** `Propose a talk`_.
 
 .. _TechHub Riga Meetup: http://www.meetup.com/techhubriga/events/219506607/
