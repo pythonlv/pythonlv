@@ -45,4 +45,4 @@ PLUGINS = [
     'google_embed',
     'extended_sitemap',
 ]
-GMAPS_KEY = 'AIzaSyB9UsQKmrYGAao49WFfIABMf7j8twOvAcc'
+GMAPS_KEY = 'AIzaSyBGSFTSfCZvGCg6IPTrkVZyXj6EUPQPLtY'
