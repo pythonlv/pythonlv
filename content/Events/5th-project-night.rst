@@ -1,7 +1,7 @@
 ================
 #5 Project Night
 ================
-:date: |date| |time|
+:date: 2015-05-26 11:19:54+03:00
 :slug: 5-project-night
 
 When
@@ -24,8 +24,7 @@ Food
 
 .. raw:: html
 
-    <a href="http://www.meetup.com/python-lv/events/221748871/"
-    data-event="221748871" class="mu-rsvp-btn">RSVP</a>
+    <a href="http://www.meetup.com/python-lv/events/221520795/" data-event="221520795" class="mu-rsvp-btn">RSVP</a>
 
 After struggling to get new and interesting talks each month for our monthly meetups we
 have decided to loosen up on this format. Instead, we will default to Project Nights twice a
@@ -68,8 +67,7 @@ and enjoy the evening!**
 
 .. raw:: html
 
-    <a href="http://www.meetup.com/python-lv/events/221748871/"
-    data-event="221748871" class="mu-rsvp-btn">RSVP</a>
+    <a href="http://www.meetup.com/python-lv/events/221520795/" data-event="221520795" class="mu-rsvp-btn">RSVP</a>
 
 
 Upcoming events
@@ -80,9 +78,7 @@ Upcoming events
 
 .. raw:: html
 
-    <script>!function(d,s,id){var
-    js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);
-    js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=6dkh0fh6atbg7u509bqilvd3pr";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=plbudm26viu6lq3dp6vud464ng";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
 
 .. _TechHub Riga: http://bit.ly/techhub-riga
