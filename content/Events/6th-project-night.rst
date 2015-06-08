@@ -73,6 +73,7 @@ and enjoy the evening!**
 Upcoming events
 ===============
 - June 24th, 19:00, `Project Night`_
+- June 18th, 19:00, `GDG Riga JUG Vilnius visit`_
 
 **Have something to say?** `Propose a talk`_.
 
@@ -81,6 +82,7 @@ Upcoming events
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=plbudm26viu6lq3dp6vud464ng";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
 
+.. _GDG Riga JUG Vilnius visit: http://www.eventbrite.com/e/gdg-riga-jug-vilnius-visit-tickets-17035019201?aff=eac2
 .. _TechHub Riga: http://bit.ly/techhub-riga
 .. _Become a sponsor: mailto:janis.abele@gmail.com?subject=Python%20Latvia%20Sponsorship
 .. _Propose a talk: http://bit.ly/pythonlv-c4s
