@@ -1,0 +1,65 @@
+===================================
+May 29, 2015, #5 Project Night Recap
+===================================
+:date: 2015-06-08 09:55:00+03:00
+:tags: ReactiveX, Functional Programming,, BottlePy, Brython
+:authors: Marcis Veveris
+:slug: 2015-05-29-recap
+
+Another PythonLV event that follows #PyNight format. This time we changed location a bit - 
+on TechHubs sixth floor entirely surrounded by glass cubicles and with a nice view over Old Rigas roofs. 
+
+Projects
+========
+- abele_  was continuing his journey with ReactiveX_ and also assisting on exploring wonderful world of programming
+- daGrevis_ and siers_ continued with pong_py_ implementation of Pong_ in 
+  Brython_
+- zrks_ was taking a look on BottlePy_ - another python web micro-framework, but was not too hip for it and 
+decided to stick with Flask for a while
+- algaruda_ was introducing us with StartUp Weekends main highlights and discussing his project. 
+
+
+Links
+=====
+- `CoderByte`_ - Cool programming challenges (also in Python)
+- Eve_ - simple Python REST framework
+- `JSON API`_ - Standard for building APIs in JSON
+- `Snake food`_ - Tool for visualizing projects dependencies, interesting pics - `Snakefooding`_
+- `Principles of computing`_ - Course from Rice university which uses Python to teach basic principles of computing, worth to at least take a look at 
+
+
+Upcoming events
+===============
+- June 10th, 19:00, next `#PyNight`_
+- June 18th, 19:00, `GDG Riga JUG Vilnius visit`_
+
+**Have something to say?** `Propose a talk`_.
+
+.. _GDG Riga JUG Vilnius visit: http://www.eventbrite.com/e/gdg-riga-jug-vilnius-visit-tickets-17035019201?aff=eac2
+.. _TechHub Riga Meetup: http://www.meetup.com/techhubriga/events/219506607/
+.. _Wildcard Unconference 2015: http://www.meetup.com/Latvian-Developers-Network/events/219651898/
+.. _#PyNight: http://www.meetup.com/python-lv/events/221520795/
+.. _ReactiveX: http://reactivex.io/
+.. _abele: https://github.com/abele/
+.. _algaruda: https://github.com/algaruda/
+.. _gstrazds: https://github.com/gstrazds/
+.. _daGrevis: https://github.com/daGrevis/
+.. _siers: https://github.com/siers/
+.. _zrks: https://github.com/zrks/
+.. _Pong: https://en.wikipedia.org/wiki/Pong
+.. _Brython: http://brython.info/
+.. _pong_py: http://bit.ly/1EgfnsL
+.. _functional: http://anandology.com/python-practice-book/functional-programming.html
+.. _ReactiveX Tutorial: http://reactive-extensions.github.io/learnrx/
+.. _python: https://www.python.org/
+.. _Django: https://www.djangoproject.com/
+.. _PyGame: http://www.pygame.org/news.html
+.. _Kivy: http://kivy.org/
+.. _JSON API: http://jsonapi.org/
+.. _Eve: http://python-eve.org/
+.. _CoderByte: http://www.coderbyte.com/
+.. _propose a talk: http://bit.ly/pythonlv-c4s
+.. _BottlePy: http://bottlepy.org/docs/dev/index.html
+.. _Snake food: http://furius.ca/snakefood/
+.. _Snake fooding: http://grokcode.com/864/snakefooding-python-code-for-complexity-visualization/
+.. _Principles of computing: https://www.coursera.org/course/principlescomputing1
