@@ -1,32 +1,35 @@
-===================================
+====================================
 May 29, 2015, #5 Project Night Recap
-===================================
+====================================
 :date: 2015-06-08 09:55:00+03:00
-:tags: ReactiveX, Functional Programming,, BottlePy, Brython
+:tags: ReactiveX, Functional Programming, BottlePy, Brython
 :authors: Marcis Veveris
 :slug: 2015-05-29-recap
 
-Another PythonLV event that follows #PyNight format. This time we changed location a bit - 
-on TechHubs sixth floor entirely surrounded by glass cubicles and with a nice view over Old Rigas roofs. 
+Another PythonLV event that follows #PyNight format. This time we changed 
+location a bit - on TechHubs sixth floor entirely surrounded by glass cubicles 
+and with a nice view over Old Rigas roofs.
 
 Projects
 ========
-- abele_  was continuing his journey with ReactiveX_ and also assisting on exploring wonderful world of programming
-- daGrevis_ and siers_ continued with pong_py_ implementation of Pong_ in 
+- abele_  was continuing his journey with ReactiveX_ and also assisting on
+  exploring wonderful world of programming
+- daGrevis_ and siers_ continued with pong_py_ implementation of Pong_ in
   Brython_
-- zrks_ was taking a look on BottlePy_ - another python web micro-framework, but was not too hip for it and 
-decided to stick with Flask for a while
-- algaruda_ was introducing us with StartUp Weekends main highlights and discussing his project. 
-
+- zrks_ was taking a look on BottlePy_ - another python web micro-framework,
+  but was not too hip for it and decided to stick with Flask for a while
+- algaruda_ was introducing us with StartUp Weekends main highlights and
+  discussing his project.
 
 Links
 =====
 - `CoderByte`_ - Cool programming challenges (also in Python)
 - Eve_ - simple Python REST framework
 - `JSON API`_ - Standard for building APIs in JSON
-- `Snake food`_ - Tool for visualizing projects dependencies, interesting pics - `Snakefooding`_
-- `Principles of computing`_ - Course from Rice university which uses Python to teach basic principles of computing, worth to at least take a look at 
-
+- `Snake food`_ - Tool for visualizing projects dependencies, interesting
+  pics - `Snakefooding`_
+- `Principles of computing`_ - Course from Rice university which uses Python to
+  teach basic principles of computing, worth to at least take a look at.
 
 Upcoming events
 ===============
@@ -61,5 +64,5 @@ Upcoming events
 .. _propose a talk: http://bit.ly/pythonlv-c4s
 .. _BottlePy: http://bottlepy.org/docs/dev/index.html
 .. _Snake food: http://furius.ca/snakefood/
-.. _Snake fooding: http://grokcode.com/864/snakefooding-python-code-for-complexity-visualization/
+.. _Snakefooding: http://grokcode.com/864/snakefooding-python-code-for-complexity-visualization/
 .. _Principles of computing: https://www.coursera.org/course/principlescomputing1
