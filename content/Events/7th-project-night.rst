@@ -30,7 +30,7 @@ Food
 After a short break we're back with another #PyNight!
 And that means that everyone who is interested in python can join us and make and/or explore some topic/project. You certainly can take some ideas with you - but if you don't know exactly what you want to explore/make then as usual you'll be invited to join someone who already knows exactly what he wants to do.
 
-For example, this time one of us will explore pygame_ module with intention to make OOP remake of his childhood one-of-favorite games.
+For example, this time you can join exploration of pygame_ module with intention remake well known game or explore how to configure Vagrant_ + Docker_ to run Django_ app.
 
 
 If you have any questions and/or suggestions - join us on our chat_.
@@ -83,3 +83,6 @@ Upcoming events
 .. _Kindling projects: http://nedbatchelder.com/text/kindling.html
 .. _Project Night: http://www.meetup.com/python-lv/events/223150345/
 .. _pygame: http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/
+.. _Vagrant: https://www.vagrantup.com/about.html
+.. _Docker: https://www.docker.com/whatisdocker
+.. _Django: https://www.djangoproject.com/
