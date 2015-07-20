@@ -6,3 +6,4 @@ cache/
 themes/
 output/
 *.pyc
+env/
