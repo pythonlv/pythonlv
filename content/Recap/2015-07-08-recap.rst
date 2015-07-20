@@ -4,7 +4,7 @@ July 08, 2015, #7 Project Night Recap
 :date: 2015-07-20 09:15:00+03:00
 :tags: Forex, PyGame, Vagrant, Docker
 :authors: Marcis Veveris
-:slug: 2015-05-29-recap
+:slug: 2015-07-08-recap
 
 This time we had unexpected guests from San Francisco, who were looking for help with their Forex-like platform building. We had some insights on how to think about MVP (Minimum Viable Product), value on rethinking necessary technologies (e.g., sometimes it's too early to think about necessity of Vagrant) and value of brands credibility to bring your product to market. 
 Those who weren't engaged in disscussions, were working on these projects:
