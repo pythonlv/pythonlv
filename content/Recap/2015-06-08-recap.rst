@@ -15,10 +15,6 @@ Projects
 - algaruda_ and gstrazds_ were exploring Vagrant_ and Docker_ - remote access, Docker inside VagranBox, DB inside Vagrant were explored topics.
 - Ernests was exploring system installation automation with Django_ - to get up and running Debian or CentOS with help of web interface.
 
-Links
-=====
-- `CoderByte`_ - Cool programming challenges (also in Python)
-- `FP in Python`_ - Functional programming in Python EBook 
 
 Upcoming events
 ===============
