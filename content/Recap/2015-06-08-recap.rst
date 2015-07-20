@@ -34,3 +34,4 @@ Upcoming events
 .. _Docker: http://docs.docker.com/mac/started/
 .. _Karogs: http://dl.tilde.lv/download/TildesBirojs/HTML.Help/index.html?stratciiska_spcle_karogs.htm
 .. _propose a talk: http://bit.ly/pythonlv-c4s
+.. _#PyNight: http://www.meetup.com/python-lv/events/zmwbhlytlbqb/
