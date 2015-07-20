@@ -63,7 +63,7 @@ and enjoy the evening!**
 
 Upcoming events
 ===============
-- August 12nth 19:00, `Project Night`_
+- August 12th 19:00, `Project Night`_
 
 **Have something to say?** `Propose a talk`_.
 
