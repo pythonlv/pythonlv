@@ -1,6 +1,6 @@
-====================================
+=====================================
 July 08, 2015, #7 Project Night Recap
-====================================
+=====================================
 :date: 2015-07-20 09:15:00+03:00
 :tags: Forex, PyGame, Vagrant, Docker
 :authors: Marcis Veveris
@@ -15,10 +15,6 @@ Projects
 - algaruda_ and gstrazds_ were exploring Vagrant_ and Docker_ - remote access, Docker inside VagranBox, DB inside Vagrant were explored topics.
 - Ernests was exploring system installation automation with Django_ - to get up and running Debian or CentOS with help of web interface.
 
-Links
-=====
-- `CoderByte`_ - Cool programming challenges (also in Python)
-- `FP in Python`_ - Functional programming in Python EBook 
 
 Upcoming events
 ===============
@@ -38,3 +34,4 @@ Upcoming events
 .. _Docker: http://docs.docker.com/mac/started/
 .. _Karogs: http://dl.tilde.lv/download/TildesBirojs/HTML.Help/index.html?stratciiska_spcle_karogs.htm
 .. _propose a talk: http://bit.ly/pythonlv-c4s
+.. _#PyNight: http://www.meetup.com/python-lv/events/zmwbhlytlbqb/
