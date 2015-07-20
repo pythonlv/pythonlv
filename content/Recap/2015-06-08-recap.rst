@@ -1,0 +1,40 @@
+====================================
+July 08, 2015, #7 Project Night Recap
+====================================
+:date: 2015-07-20 09:15:00+03:00
+:tags: Forex, PyGame, Vagrant, Docker
+:authors: Marcis Veveris
+:slug: 2015-05-29-recap
+
+This time we had unexpected guests from San Francisco, who were looking for help with their Forex-like platform building. We had some insights on how to think about MVP (Minimum Viable Product), value on rethinking necessary technologies (e.g., sometimes it's too early to think about necessity of Vagrant) and value of brands credibility to bring your product to market. 
+Those who weren't engaged in disscussions, were working on these projects:
+
+Projects
+========
+- zrks_ was starting his project in PyGame_ to remake his one-of-the-favorite games of his childhood - Karogs_ .
+- algaruda_ and gstrazds_ were exploring Vagrant_ and Docker_ - remote access, Docker inside VagranBox, DB inside Vagrant were explored topics.
+- Ernests was exploring system installation automation with Django_ - to get up and running Debian or CentOS with help of web interface.
+
+Links
+=====
+- `CoderByte`_ - Cool programming challenges (also in Python)
+- `FP in Python`_ - Functional programming in Python EBook 
+
+Upcoming events
+===============
+- August 12th, 19:00, next `#PyNight`_
+
+**Have something to say?** `Propose a talk`_.
+
+.. _abele: https://github.com/abele/
+.. _algaruda: https://github.com/algaruda/
+.. _zrks: https://github.com/zrks/
+.. _gstrazds: https://github.com/gstrazds
+.. _functional: http://anandology.com/python-practice-book/functional-programming.html
+.. _python: https://www.python.org/
+.. _PyGame: http://www.pygame.org/news.html
+.. _Vagrant: http://docs.vagrantup.com/v2/getting-started/index.html
+.. _Django: https://www.djangoproject.com/start/
+.. _Docker: http://docs.docker.com/mac/started/
+.. _Karogs: http://dl.tilde.lv/download/TildesBirojs/HTML.Help/index.html?stratciiska_spcle_karogs.htm
+.. _propose a talk: http://bit.ly/pythonlv-c4s
