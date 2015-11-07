@@ -1,7 +1,7 @@
 =================
 #12 Project Night
 =================
-:date: 2015-11-07
+:date: 2015-11-06
 :slug: 12-project-night
 
 When
