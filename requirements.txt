@@ -1,4 +1,3 @@
-docutils
 pelican==3.5.0
 google_embed==0.1.0
 pelican-extended-sitemap==1.0.1
