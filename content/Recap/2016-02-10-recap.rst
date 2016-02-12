@@ -6,7 +6,7 @@ February 10, 2016, Month's 1st `#PyNight`_ Recap
 :authors: Arnis Jaundžeikars
 :slug: 2016-02-10-recap
 
-This time `#PyNight`_occured in a more relaxed bar environment and laptops were kept closed making room for conversations covering a wild variety of topics while continuing to sketch out some future plans and formats for **PythonLV**.
+This time `#PyNight`_ occured in a more relaxed bar environment and laptops were kept closed making room for conversations covering a wild variety of topics while continuing to sketch out some future plans and formats for **PythonLV**.
 
 Motivation, insight, reflection
 ===============================
