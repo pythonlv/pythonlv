@@ -1,0 +1,51 @@
+============================================
+February 10, 2016, Month's 1st `#PyNight`_ Recap
+============================================
+:date: 2016-02-12 04:43:40+03:00
+:tags: Advice, Wisdom, Future Plans
+:authors: Arnis Jaundžeikars
+:slug: 2016-02-10-recap
+
+This time `#PyNight`_occured in a more relaxed bar environment and laptops were kept closed making room for conversations covering a wild variety of topics while continuing to sketch out some future plans and formats for **PythonLV**.
+
+Motivation, insight, reflection
+===============================
+
+- Difference between effectiveness_ vs. efficiency_, and why the right thing to do depends on unique circumstances.
+- The importance of interpersonal relationships in both software development & personal life, and factors influencing them.
+- Discussing vs. arguing, and the value of discourse for the right reasons.
+- Common aspects found in `game systems`_ and real-world quest for success; effects of various substances and activities on one's well-being.
+- Dependency chain between work, personal life, rest and curious playfulness and how they rely on each other.
+- Different approaches to development: `The Cathedral and The Bazaar`_.
+
+Practicalities of the physical world
+====================================
+
+- Improving one's physical ability, and how it depends on inner motivations and overlaying goals were hot topics between ivarsj10s_ and abele_.
+- Recent experience with `Let's Encrypt`_ was discussed between abele_ and SangSatori_; verdict positive.
+- Nuances and differences between the author and audience when making videos on software development.
+- Sustainability and investing oneself in the right things personally, professionally and altruistically.
+
+Future plans for PythonLV
+=========================
+
+We also discussed future ideas for group events of various kinds, ranging from book clubs to workshops to `leisure activities`_. Want to chime in and have your say? You can get in touch with `PythonLV on Gitter`_.
+
+Upcoming events
+===============
+- February 25th, 19:00, next `#PyNight`_
+
+**Have something to say?** `Propose a talk`_.
+
+.. _abele: https://github.com/abele/
+.. _ivarsj10s: https://github.com/ivarsj10s
+.. _SangSatori: https://github.com/SangSatori
+.. _effectiveness: https://en.wikipedia.org/wiki/Effectiveness
+.. _efficiency: https://en.wikipedia.org/wiki/Efficiency
+.. _`The Cathedral and The Bazaar`: https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+.. _`game systems`: https://minecraft.net/
+.. _`Let's Encrypt`: https://letsencrypt.org/
+.. _`leisure activities`: https://en.wikipedia.org/wiki/LAN_party
+.. _`PythonLV on Gitter`: https://gitter.im/pythonlv/pythonlv
+.. _`propose a talk`: http://bit.ly/pythonlv-c4s
+.. _`#PyNight`: http://www.meetup.com/python-lv/events/228781109/
