@@ -1,12 +1,12 @@
-============================================
+================================================
 February 10, 2016, Month's 1st `#PyNight`_ Recap
-============================================
+================================================
 :date: 2016-02-12 04:43:40+03:00
 :tags: Advice, Wisdom, Future Plans
 :authors: Arnis Jaundžeikars
 :slug: 2016-02-10-recap
 
-This time `#PyNight`_ occured in a more relaxed bar environment and laptops were kept closed making room for conversations covering a wild variety of topics while continuing to sketch out some future plans and formats for **PythonLV**.
+This time `#PyNight`_ occurred in a more relaxed bar environment and laptops were kept closed making room for conversations covering a wild variety of topics while continuing to sketch out some future plans and formats for **PythonLV**.
 
 Motivation, insight, reflection
 ===============================
@@ -33,7 +33,7 @@ We also discussed future ideas for group events of various kinds, ranging from b
 
 Upcoming events
 ===============
-- February 25th, 19:00, next `#PyNight`_
+- February 24th, 19:00, next `#PyNight`_
 
 **Have something to say?** `Propose a talk`_.
 
