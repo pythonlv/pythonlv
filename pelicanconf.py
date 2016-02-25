@@ -42,7 +42,6 @@ THEME = "themes/built-texts/"
 TWITTER_USERNAME = 'pythonlatvia'
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
-    'google_embed',
     'extended_sitemap',
 ]
 GMAPS_KEY = 'AIzaSyBGSFTSfCZvGCg6IPTrkVZyXj6EUPQPLtY'
