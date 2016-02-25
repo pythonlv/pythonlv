@@ -1,0 +1,43 @@
+================================================
+February 24, 2016, Month's 2nd `#PyNight`_ Recap
+================================================
+:date: 2016-02-25 13:37:28+03:00
+:tags: Software Architecture, Pythonic Code, Diet, Frontend
+:authors: Arnis Jaundžeikars
+:slug: 2016-02-24-recap
+
+We took it to the bar again with lesser-than-usual number of participants and discussed a number of topics, both software-related and not.
+
+Software things
+===============
+
+- abele_ talked about the need to brush up frontend development skills and the `pains of bringing them up to date`_ in 2016, with SangSatori_ agreeing on the crazy state of JavaScript front-end tooling - bringing up the discussion on the sustainability and long-term landscape of frontend development, including the current use of `Yeoman generators`_.
+- Links between the design of frameworks and software architecture in context of design of Python & JavaScript was another topic, concluding that it pays off to embrace the `design of the language`_ when `building Pythonic software`_.
+- SangSatori_ had a few thoughts to share on the differences between `Angular and React`_ in how they approach solving the frontend problems, benefits of using `Flexbox`_ and the direction of TypeScript and Dart languages and `web components`_.
+- abele_ recalled a number of `great resources`_ on software architecture for writing clean, expressive Python code that makes sense.
+
+Non-software discussions
+========================
+
+- abele_ had plenty of insight and advice for SangSatori_ on eating the right things the right way and how it affects physical and mental state of being, how not all calories are created equal and his experience with `Ketogenic diet`_ in context of low-carb, high-fat food intake.
+- We also shared stories and personal experiences on the importance of mental well-being and doing the right things for one's mental health.
+
+Upcoming events
+===============
+- March 9th, 19:00, next `#PyNight`_
+
+**Have something to say?** `Propose a talk`_.
+
+.. _abele: https://github.com/abele/
+.. _SangSatori: https://github.com/SangSatori
+.. _`pains of bringing them up to date`: https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4
+.. _`Yeoman generators`: http://yeoman.io/generators/
+.. _`great resources`: http://pymust.watch/
+.. _`design of the language`: https://www.python.org/dev/peps/pep-0020/
+.. _`building Pythonic Software`: https://www.youtube.com/watch?v=DJtef410XaM
+.. _`Angular and React`: https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51
+.. _`Flexbox`: http://flexboxfroggy.com/
+.. _`web components`: https://www.polymer-project.org
+.. _`Ketogenic diet`: https://www.reddit.com/r/keto/
+.. _`propose a talk`: http://bit.ly/pythonlv-c4s
+.. _`#PyNight`: http://www.meetup.com/python-lv/events/228055120/
